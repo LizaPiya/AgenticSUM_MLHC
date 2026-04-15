@@ -3,3 +3,9 @@
 __pycache__/
 *.pyc
 
+# Data files - do not push to GitHub
+*.csv
+*.tex
+*.bib
+latext.txt
+
